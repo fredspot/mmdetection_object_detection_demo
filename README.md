@@ -4,7 +4,7 @@
 Train an object detection with Google Colab and free GPU.
 
 Train with custom Pascal VOC dataset.
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony607/mmdetection_object_detection_demo/blob/master/mmdetection_train_custom_data.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fredspot/mmdetection_object_detection_demo/blob/master/mmdetection_train_custom_data.ipynb)
 
 Train with custom COCO dataset.
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tony607/mmdetection_object_detection_demo/blob/master/mmdetection_train_custom_coco_data.ipynb)
